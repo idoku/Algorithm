@@ -1,0 +1,15 @@
+E:\code\study\Algorithm\greedy\obj\Debug\net6.0\greedy.csproj.AssemblyReference.cache
+E:\code\study\Algorithm\greedy\obj\Debug\net6.0\greedy.GeneratedMSBuildEditorConfig.editorconfig
+E:\code\study\Algorithm\greedy\obj\Debug\net6.0\greedy.AssemblyInfoInputs.cache
+E:\code\study\Algorithm\greedy\obj\Debug\net6.0\greedy.AssemblyInfo.cs
+E:\code\study\Algorithm\greedy\obj\Debug\net6.0\greedy.csproj.CoreCompileInputs.cache
+E:\code\study\Algorithm\greedy\bin\Debug\net6.0\greedy.exe
+E:\code\study\Algorithm\greedy\bin\Debug\net6.0\greedy.deps.json
+E:\code\study\Algorithm\greedy\bin\Debug\net6.0\greedy.runtimeconfig.json
+E:\code\study\Algorithm\greedy\bin\Debug\net6.0\greedy.dll
+E:\code\study\Algorithm\greedy\bin\Debug\net6.0\greedy.pdb
+E:\code\study\Algorithm\greedy\obj\Debug\net6.0\greedy.dll
+E:\code\study\Algorithm\greedy\obj\Debug\net6.0\refint\greedy.dll
+E:\code\study\Algorithm\greedy\obj\Debug\net6.0\greedy.pdb
+E:\code\study\Algorithm\greedy\obj\Debug\net6.0\greedy.genruntimeconfig.cache
+E:\code\study\Algorithm\greedy\obj\Debug\net6.0\ref\greedy.dll
