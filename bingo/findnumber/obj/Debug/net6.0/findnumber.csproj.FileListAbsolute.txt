@@ -1,0 +1,15 @@
+E:\code\study\Algorithm\bingo\findnumber\bin\Debug\net6.0\findnumber.exe
+E:\code\study\Algorithm\bingo\findnumber\bin\Debug\net6.0\findnumber.deps.json
+E:\code\study\Algorithm\bingo\findnumber\bin\Debug\net6.0\findnumber.runtimeconfig.json
+E:\code\study\Algorithm\bingo\findnumber\bin\Debug\net6.0\findnumber.dll
+E:\code\study\Algorithm\bingo\findnumber\bin\Debug\net6.0\findnumber.pdb
+E:\code\study\Algorithm\bingo\findnumber\obj\Debug\net6.0\findnumber.csproj.AssemblyReference.cache
+E:\code\study\Algorithm\bingo\findnumber\obj\Debug\net6.0\findnumber.GeneratedMSBuildEditorConfig.editorconfig
+E:\code\study\Algorithm\bingo\findnumber\obj\Debug\net6.0\findnumber.AssemblyInfoInputs.cache
+E:\code\study\Algorithm\bingo\findnumber\obj\Debug\net6.0\findnumber.AssemblyInfo.cs
+E:\code\study\Algorithm\bingo\findnumber\obj\Debug\net6.0\findnumber.csproj.CoreCompileInputs.cache
+E:\code\study\Algorithm\bingo\findnumber\obj\Debug\net6.0\findnumber.dll
+E:\code\study\Algorithm\bingo\findnumber\obj\Debug\net6.0\refint\findnumber.dll
+E:\code\study\Algorithm\bingo\findnumber\obj\Debug\net6.0\findnumber.pdb
+E:\code\study\Algorithm\bingo\findnumber\obj\Debug\net6.0\findnumber.genruntimeconfig.cache
+E:\code\study\Algorithm\bingo\findnumber\obj\Debug\net6.0\ref\findnumber.dll

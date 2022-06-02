@@ -54,7 +54,6 @@ class Program
 
             processed.Add(node);
             node = FindLowestCostNode(costs);
-
         }
     }
 
