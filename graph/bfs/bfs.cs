@@ -10,42 +10,43 @@ static class program
         find_short_path2();
     }
 
-    static void find_short_path2(){
-       var graph = new Dictionary<string, List<string>>();
+    static void find_short_path2()
+    {
+        var graph = new Dictionary<string, List<string>>();
         graph["cab"] = new List<string> { "cat", "car" };
         graph["car"] = new List<string> { "cat", "bar" };
         graph["cat"] = new List<string> { "bat", "mat" };
-        graph["bar"] = new List<string>(){"bat"};
+        graph["bar"] = new List<string>() { "bat" };
         graph["mat"] = new List<string> { "bat" };
         graph["bat"] = new List<string>();
         bfs_finish2(graph);
     }
 
-static bool bfs_finish2(Dictionary<string, List<string>> graph)
+    static bool bfs_finish2(Dictionary<string, List<string>> graph)
     {
         var queue = new Queue<string>();
         queue.AddRange<string>(graph["cab"]);
-     
+
         while (queue.Any())
         {
-            var p = queue.Dequeue(); 
-          
+            var p = queue.Dequeue();
+
             if (IsFinish2(p))
             {
                 Console.WriteLine($"{p} is finish!");
-             
+
                 return true;
             }
             else
-            {              
+            {
                 queue.AddRange<string>(graph[p]);
             }
-        
+
         }
         return false;
     }
 
-        static bool IsFinish2(string name)
+    static bool IsFinish2(string name)
     {
         return name == "bat";
     }
