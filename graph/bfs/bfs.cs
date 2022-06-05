@@ -19,6 +19,7 @@ static class program
         graph["bar"] = new List<string>() { "bat" };
         graph["mat"] = new List<string> { "bat" };
         graph["bat"] = new List<string>();
+        graph.Count();
         bfs_finish2(graph);
     }
 
