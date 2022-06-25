@@ -6,7 +6,7 @@ int main(int argc, char const *argv[])
 {
 	int arr[] = {1, 3, 5, 7, 9};
 	printf("%d\n", binary_search(7, arr, 5));
-	printf("%d\n", binary_search(7, arr, 11));
+	printf("%d\n", binary_search(4, arr, 5));
 	return 0;
 }
 
